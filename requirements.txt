@@ -1,0 +1,5 @@
+tensorflow==2.4.0
+imageai>=2.1.6
+pillow
+numpy
+matplotlib
